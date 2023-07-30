@@ -11,9 +11,7 @@
 
 执行命令
 
-`docker run -d --name music -p 264:264 -v <本机缓存目录>:/var/www/html/cache pqguanyinli
-/
-music-player`
+`docker run -d --name music -p 264:264 -v <本机缓存目录>:/var/www/html/cache pqguanyinli/music-player`
 
 ---
 
